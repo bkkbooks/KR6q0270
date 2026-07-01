@@ -1,0 +1,78 @@
+canonical_identifier: bkk:krp/KR6q0270/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0270/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五家語錄（序）
+  identifiers:
+    krp: KR6q0270
+    cbeta: X69n1326
+    cbeta_old_id: X69n1326
+    authorityid: CA0005479
+    json_key: X1326
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1326.xml
+    old_id: X69n1326
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0270_000-X.yaml, hash: 'sha256:f0c481ec37802a754cc4622aa107cdc724f77a88ed0f87e7e3f964e333d5c155'}
+  - {seq: 1, filename: KR6q0270_001-X.yaml, hash: 'sha256:0f687530ce5bc0c2716779b5619108c2671ce30dce2bcea670267ae8b14d4658'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0270_000-X.markers.yaml, hash: 'sha256:d37f1bf9d8c9edb6e36ea45681fb578d22895ec428d07f5e8db50a211df38e9c'}
+  - {seq: 1, role: markers, filename: assets/KR6q0270_001-X.markers.yaml, hash: 'sha256:5aac94455bd6958e220a0e61b1eff6c2a67ffa4483ebc80b61d78b10f5aa2ea1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0270_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 2201
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0270_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: No. 1326-A 五家語錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0270_X_001-mulu-2
+    span:
+    - body
+    - 823
+    - 823
+  label: No. 1326-B 五宗源流圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0270_X_001-mulu-3
+    span:
+    - body
+    - 1313
+    - 1313
+  label: No. 1326-C 五家語錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0270_X_001-mulu-4
+    span:
+    - body
+    - 1504
+    - 1504
+  label: No. 1326-D 五家語錄序
+  type: mulu
+  level: 1
+hash: sha256:bff6999048cca28641b07fbc5f282dad52faf57edafa11d7ef787b4f8c7a3148

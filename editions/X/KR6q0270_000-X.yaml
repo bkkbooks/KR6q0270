@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0270/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五家語錄（序）
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1326.xml
+    old_id: X69n1326
+hash: sha256:f0c481ec37802a754cc4622aa107cdc724f77a88ed0f87e7e3f964e333d5c155
