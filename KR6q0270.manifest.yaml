@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0270/v1
 canonical_location: https://kanripo.org/bkk/KR6q0270/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 五家語錄（序）
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0270_000.yaml, hash: 'sha256:f0c481ec37802a754cc4622aa107cdc724f77a88ed0f87e7e3f964e333d5c155'}
-  - {seq: 1, filename: KR6q0270_001.yaml, hash: 'sha256:0f687530ce5bc0c2716779b5619108c2671ce30dce2bcea670267ae8b14d4658'}
+  - {seq: 1, filename: KR6q0270_001.yaml, hash: 'sha256:10314678e543280c689b1c22ca8201fc7aad88a3a8189f8c3b0561b9033abf9e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0270_000.markers.yaml, hash: 'sha256:ad3107298478f1362f4ae67b674d9e570fffec149594144fcfb8171a6c8b4486'}
-  - {seq: 1, role: markers, filename: assets/KR6q0270_001.markers.yaml, hash: 'sha256:f6e269a1dae6c901879fb3ae4cead84ac9f1b87dda77fbe3dba6238bebe0cb2c'}
+  - {seq: 1, role: markers, filename: assets/KR6q0270_001.markers.yaml, hash: 'sha256:4c1a8117fd5715ac03f92794c055537c96f699e6d63e591dc72a9d6979ac8721'}
 table_of_contents:
 - ref:
     seq: 1
@@ -77,4 +77,7 @@ table_of_contents:
   label: No. 1326-D 五家語錄序
   type: mulu
   level: 1
-hash: sha256:7ae09e7725fbd6a6d6f4d2ae815e261dc897b6db5cec7dd3df739fc20c5613e2
+hash: sha256:529fbe80588ac6f36a11e82f4f655ae9eb22559cb44241ed8caccd369e442750
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
